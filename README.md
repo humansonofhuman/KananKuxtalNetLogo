@@ -1,6 +1,8 @@
 # KananKuxtalNetLogo
 A prototype of a game made with NetLogo
 
+![img](https://i.imgur.com/ML7aH1O.png)
+
 Proyect description in spanish:
 
 El proyecto consiste en utilizar NetLogo para crear un videojuego, aprovechando los
